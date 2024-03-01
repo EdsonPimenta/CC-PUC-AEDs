@@ -24,7 +24,7 @@ void printaTela(bool verifica)
     printf("Nao esta contido\n");
 }
 
-
+ 
 
 int main()
 {
