@@ -5,12 +5,16 @@
 using namespace std;
 
 
-class TrataEx{
+class TrataEx:public exception {
 
 private: 
 string erro;
 
 public:
+TrataEx(string erro)
+{
+    this->erro = erro;
+}
 void setErro(string erro)
 {
     this->erro =  erro;
@@ -25,7 +29,7 @@ string getErro(){
 
 int main()
 {
-    TrataEx ex;
+    TrataEx ex = TrataEx("Valor invalido");
     int n;
 
     try{
@@ -33,6 +37,10 @@ int main()
     cin>>n;
      if(n<1||n>6)
         throw ex;
+    }catch(TrataEx& ex)
+    {
+        cerr<<"Erro: "<<ex.what()<<endl<<ex.getErro()<<endl;
+
     }
 
 

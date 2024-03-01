@@ -68,10 +68,13 @@ string data;
 string garcon;
 int contador = 0;
 float valorTotal = 0;
-
-public:
-itemComanda item[10];                
+itemComanda item[10];       
+public:     
 Comanda(){}
+void setItem(itemComanda item)
+{
+    *this->item = item;
+}
 void setCliente(Cliente cliente)
 {
     this->cliente = cliente;
@@ -83,9 +86,6 @@ Cliente getCliente()
 
 void adicionarItemComanda(itemComanda item)
 {
-    
-    item.getDescricao();
-    item.getValor();
     contador++;
     valorTotal+= item.getValor();
     
@@ -121,12 +121,14 @@ string getGarcon()
 
 
 int main(){
-    Comanda* comanda = new Comanda[10];   
+    Comanda* comanda = new Comanda[10];
     Cliente cliente[10];
+    itemComanda item[10];
     int QTDcliente = 0;
     string descricao;
     double valor;
     int i = comanda->getNumerosItensComanda();
+    int coutC= 0;
    
     string data;
     string garcon;
@@ -136,16 +138,12 @@ int main(){
     
     cliente[QTDcliente].setNome("Edson");
     cliente[QTDcliente].setCpf("140.375.676.79");
+    item[i].setDescricao("Queijo");
+    item[i].setValor(200);
 
-    comanda->setCliente(cliente[QTDcliente]);
-    
-    int itens;
-    
-       
-
-    comanda->item[i].setDescricao("Queijo");
-    comanda->item[i].setValor(30);
-    comanda->adicionarItemComanda(comanda->item[i]);
+    comanda[coutC].setCliente(cliente[QTDcliente]);
+    comanda[coutC].setItem(item[i]);
+    comanda[coutC].adicionarItemComanda(item[i]);
     cout<<"O valor total da comanda eh: "<<comanda->getValorTotal()<<endl;
 
 
