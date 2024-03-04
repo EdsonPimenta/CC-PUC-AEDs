@@ -8,8 +8,17 @@ class Cifra{
       String cifra = "";
       int tam = Cifra.length();
       
+      
       for(int i = 0;i<tam;i++){
-         cifra  +=  (char)(Cifra.charAt(i)  + 3);   
+         
+         // if(Cifra.charAt(i)!= 189 && Cifra.charAt(i)!= 191 && Cifra.charAt(i)!= 239)
+         // else
+         if (Cifra.charAt(i) != 65533) {
+            cifra  +=  (char)(Cifra.charAt(i)  + 3);   
+         } else  {
+            cifra += Cifra.charAt(i);
+         }
+         
       }
       return cifra;
    }
@@ -17,10 +26,19 @@ class Cifra{
    
    
    public static void main(String[] args) {
-   Scanner read =  new Scanner (System.in);
-   String Cifra = read.nextLine();
-   System.out.println(" " + alteraString(Cifra));
-   read.close();
+   
+      MyIO.setCharset("UTF-8");
+      String Cifra = MyIO.readLine();
+
+   while(!Cifra.equals("FIM")){
+
+      
+      System.out.println(alteraString(Cifra));
+      Cifra = MyIO.readLine();
+      
+      
+   }
+
    }
 
 } 

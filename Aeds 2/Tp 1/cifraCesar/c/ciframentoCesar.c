@@ -3,8 +3,9 @@
 
 void alteraString(char criptografia[])
 {
-int tam = strlen(criptografia);
-for(int i = 0;i<tam;i++)
+
+    int tam = strlen(criptografia);
+    for(int i = 0;i<tam;i++)
 {
 criptografia[i] = criptografia[i]+3;
 }

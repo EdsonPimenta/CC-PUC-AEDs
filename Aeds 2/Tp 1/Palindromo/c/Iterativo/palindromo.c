@@ -24,7 +24,7 @@ bool isPalindromo(char string[])
                     i+=2;
                     if(string[i]!=string[j]){
                         resultado = false;
-                        break;
+                        break;   
                     }
                     i--;
                     j--;
