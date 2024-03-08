@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <stdbool.h>
+#include <stdbool.h> 
 
 // clear && gcc palindromo.c && ./a.out < pub.in > result.txt
 

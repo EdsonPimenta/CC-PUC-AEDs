@@ -31,7 +31,7 @@ public class alteracaoAl {
         
         primeiraLetra = (char)('a' + (Math.abs(gerador.nextInt()) % 26));
         segundaLetra = (char)('a' + (Math.abs(gerador.nextInt()) % 26));
-        frase = scanner.nextLine();
+        frase = scanner.nextLine();  
 
         while(!frase.equals("FIM")){
 

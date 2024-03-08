@@ -1,0 +1,1304 @@
+i - a || tam - a
+NAO
+i - a || tam - ½
+NAO
+i - A || tam - a
+NAO
+i - a || tam - ½
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - A || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - e || tam - e
+NAO
+i - e || tam - e
+NAO
+i - m || tam - m
+NAO
+i - m || tam - m
+NAO
+i - m || tam - m
+NAO
+i - m || tam - m
+NAO
+i - o || tam - o
+NAO
+i - o || tam - o
+NAO
+i - O || tam - o
+NAO
+i - o || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - o || tam - o
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - s || tam - s
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - B || tam - b
+NAO
+i - E || tam - e
+NAO
+i - E || tam - e
+NAO
+i - E || tam - e
+NAO
+i - E || tam - e
+NAO
+i - H || tam - h
+NAO
+i - M || tam - m
+NAO
+i - N || tam - n
+NAO
+i - N || tam - n
+NAO
+i - N || tam - n
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - R || tam - r
+NAO
+i - R || tam - r
+NAO
+i - M || tam - m
+NAO
+i - B || tam - b
+NAO
+i - R || tam - r
+NAO
+i - L || tam - l
+NAO
+i - N || tam - n
+NAO
+i - N || tam - n
+NAO
+i - M || tam - m
+NAO
+i - A || tam - a
+NAO
+i - M || tam - m
+NAO
+i - M || tam - m
+NAO
+i - I || tam - i
+NAO
+i - A || tam - a
+NAO
+i - a || tam - ½
+NAO
+i - a || tam - ½
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - A || tam - a
+NAO
+i - ï || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - A || tam - a
+NAO
+i - a || tam - ½
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - ½
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - ½
+NAO
+i - a || tam - ½
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - A || tam - a
+NAO
+i - e || tam - ½
+NAO
+i - ï || tam - i
+NAO
+i - l || tam - l
+NAO
+i - l || tam - l
+NAO
+i - l || tam - l
+NAO
+i - L || tam - l
+NAO
+i - M || tam - m
+NAO
+i - m || tam - m
+NAO
+i - m || tam - m
+NAO
+i - m || tam - m
+NAO
+i - o || tam - o
+NAO
+i - o || tam - o
+NAO
+i - o || tam - o
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - s || tam - s
+NAO
+i - a || tam - a
+NAO
+i - a || tam - a
+NAO
+i - A || tam - a
+NAO
+i - a || tam - a
+NAO
+i - l || tam - l
+NAO
+i - l || tam - l
+NAO
+i - l || tam - l
+NAO
+i - l || tam - l
+NAO
+i - l || tam - l
+NAO
+i - s || tam - s
+NAO
+i - r || tam - r
+NAO
+i - r || tam - r
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - ½
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - !
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - ï || tam - !
+NAO
+i - L || tam - l
+NAO
+i - L || tam - l
+NAO
+i - L || tam - l
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - )
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - A || tam - a
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - ½
+NAO
+i - O || tam - !
+NAO
+i - O || tam - !
+NAO
+i - O || tam - )
+NAO
+i - O || tam - !
+NAO
+i - R || tam - r
+NAO
+i - Z || tam - z
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - S || tam - s
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - !
+NAO
+i - ï || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - !
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - a
+NAO
+i - A || tam - a
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - !
+NAO
+i - ï || tam - ?
+NAO
+i - ï || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - ½
+NAO
+i - E || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - e
+NAO
+i - E || tam - !
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - E || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - ï || tam - e
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - e
+NAO
+i - E || tam - e
+NAO
+i - I || tam - )
+NAO
+i - I || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - F || tam - )
+NAO
+i - G || tam - )
+NAO
+i - H || tam - )
+NAO
+i - H || tam - )
+NAO
+i - H || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - .
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - ½
+NAO
+i - M || tam - )
+NAO
+i - M || tam - m
+NAO
+i - M || tam - )
+NAO
+i - M || tam - )
+NAO
+i - M || tam - m
+NAO
+i - N || tam - )
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - ï || tam - !
+NAO
+i - O || tam - )
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - ï || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - !
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - o
+NAO
+i - O || tam - )
+NAO
+i - O || tam - o
+NAO
+i - O || tam - !
+NAO
+i - O || tam - !
+NAO
+i - O || tam - )
+NAO
+i - O || tam - o
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - o
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - ½
+NAO
+i - O || tam - o
+NAO
+i - O || tam - o
+NAO
+i - R || tam - )
+NAO
+i - R || tam - )
+NAO
+i - R || tam - )
+NAO
+i - R || tam - r
+NAO
+i - R || tam - !
+NAO
+i - R || tam - r
+NAO
+i - R || tam - Q
+NAO
+i - R || tam - r
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - ?
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - !
+NAO
+i - _ || tam - !
+NAO
+i - S || tam - !
+NAO
+i - S || tam - !
+NAO
+i - S || tam - s
+NAO
+i - S || tam - .
+NAO
+i - S || tam - s
+NAO
+i - S || tam - !
+NAO
+i - S || tam - !
+NAO
+i - S || tam - s
+NAO
+i - S || tam - !
+NAO
+i - S || tam - !
+NAO
+i - S || tam - S
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - S || tam - s
+NAO
+i - T || tam - T
+NAO
+i - Z || tam - z
+NAO
+i - Z || tam - z
+NAO
+i - L || tam - .
+NAO
+i - O || tam - .
+NAO
+i - O || tam - !
+NAO
+i - R || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - ?
+NAO
+i - A || tam - .
+NAO
+i - A || tam - a
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - E || tam - .
+NAO
+i - A || tam - a
+NAO
+i - E || tam - )
+NAO
+i - E || tam - !
+NAO
+i - E || tam - )
+NAO
+i - E || tam - .
+NAO
+i - L || tam - )
+NAO
+i - M || tam - )
+NAO
+i - M || tam - )
+NAO
+i - M || tam - .
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - R || tam - )
+NAO
+i - R || tam - .
+NAO
+i - S || tam - .
+NAO
+i - S || tam - )
+NAO
+i - R || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - S || tam - .
+NAO
+i - S || tam - )
+NAO
+i - S || tam - s
+NAO
+i - Z || tam - )
+NAO
+i - S || tam - )
+NAO
+i - S || tam - !
+NAO
+i - ï || tam - ½
+NAO
+i - S || tam - s
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - !
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - O || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - !
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - .
+NAO
+i - A || tam - .
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - .
+NAO
+i - A || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - !
+NAO
+i - A || tam - !
+NAO
+i - B || tam - ]
+NAO
+i - E || tam - )
+NAO
+i - ï || tam - ?
+NAO
+i - E || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - .
+NAO
+i - - || tam - )
+NAO
+i - E || tam - )
+NAO
+i - ï || tam - .
+NAO
+i - E || tam - .
+NAO
+i - E || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - I || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - A || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - )
+NAO
+i - L || tam - l
+NAO
+i - M || tam - )
+NAO
+i - M || tam - )
+NAO
+i - M || tam - )
+NAO
+i - M || tam - m
+NAO
+i - M || tam - ½
+NAO
+i - M || tam - )
+NAO
+i - M || tam - )
+NAO
+i - M || tam - )
+NAO
+i - M || tam - )
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - ï || tam - !
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - .
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - ï || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - !
+NAO
+i - O || tam - )
+NAO
+i - O || tam - .
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - ï || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - O || tam - .
+NAO
+i - L || tam - )
+NAO
+i - S || tam - )
+NAO
+i - O || tam - )
+NAO
+i - R || tam - )
+NAO
+i - O || tam - )
+NAO
+i - O || tam - )
+NAO
+i - N || tam - )
+NAO
+i - S || tam - )
+NAO
+i - R || tam - )
+NAO
+i - R || tam - )
+NAO
+i - R || tam - )
+NAO
+i - R || tam - )
+NAO
+i - R || tam - .
+NAO
+i - R || tam - !
+NAO
+i - R || tam - )
+NAO
+i - R || tam - .
+NAO
+i - S || tam - .
+NAO
+i - S || tam - .
+NAO
+i - S || tam - )
+NAO
+i - S || tam - .
+NAO
+i - S || tam - )
+NAO
+i - S || tam - s
+NAO
+i - S || tam - !
+NAO
+i - S || tam - )
+NAO
+i - S || tam - .
+NAO
+i - T || tam - )
+NAO
+i - V || tam - )
+NAO
+i - Z || tam - .
+NAO
+i - A || tam - )
+NAO
+i - R || tam - )
+NAO
+i - N || tam - )
+NAO
+i - S || tam - )
+NAO
+i - U || tam - )
+NAO
+i - A || tam - )
+NAO
+i - L || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - A || tam - )
+NAO
+i - E || tam - )
+NAO
+i - E || tam - )
+NAO
+i - S || tam - )
+NAO
+i - E || tam - .
+NAO
+i - D || tam - .
+NAO
+i - D || tam - .
+NAO
+i - D || tam - .
+NAO
+i - D || tam - .
+NAO
+i - E || tam - .
+NAO
+i - L || tam - .
+NAO
+i - D || tam - .
+NAO
+i - T || tam - .
+NAO
+i - S || tam - .
+NAO
+i - T || tam - .
+NAO
+i - A || tam - )
+NAO
+i - A || tam - !
+NAO
+i - C || tam - .
+NAO
+i - D || tam - .
+NAO
+i - D || tam - .
+NAO
+i - G || tam - .
+NAO
+i - G || tam - .
+NAO
+i - I || tam - .
+NAO
+i - I || tam - .
+NAO
+i - L || tam - .
+NAO
+i - M || tam - .
+NAO
+i - M || tam - )
+NAO
+i - N || tam - .
+NAO
+i - N || tam - n
+NAO
+i - S || tam - )
+NAO
+i - S || tam - )
+NAO
+i - S || tam - s
+NAO
+i - S || tam - .
+NAO
+i - W || tam - ?
+NAO
+i - 1 || tam - 1
+NAO
+i - 1 || tam - 9
+NAO
+i - 1 || tam - 7
+NAO
+i - 5 || tam - 6
+NAO
+i - 2 || tam - 5
+NAO
+i - 2 || tam - 5
+NAO
+i - 1 || tam - 1
+NAO
+i - 1 || tam - 0
+NAO
+i - , || tam - 5
+NAO
+i - . || tam - 2
+NAO
+i - 1 || tam - .
+NAO
+i - 1 || tam - ,
+NAO
