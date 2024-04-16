@@ -1,4 +1,4 @@
-package java;
+
 
 /*Crie uma classe Personagem seguindo todas as regras apresentadas no slide unidade01g_conceitosBasicos_introducaoOO.pdf.
     Sua classe terá os atributos privados id (String), name (String), alternate_names (Lista), house (String), ancestry (String), species (String), patronus (String), hogwartsStaff (Boolean), hogwartsStudent (String), actorName (String), alive (Boolean), dateOfBirth (DateTime), yearOfBirth (int), eyeColour (String), gender (String), hairColour (String), wizard (Boolean). 
