@@ -1,6 +1,29 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
+
+
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch with Arguments Prompt",
+      "request": "launch",
+      "mainClass": "",
+      "args": "${command:SpecifyProgramArgs}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "CC-PUC-AEDs_d2b07e4c"
+    },
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,8 +31,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/user/CC-PUC-AEDs/Aeds 2/TabelaAscii",
-      "program": "/home/user/CC-PUC-AEDs/Aeds 2/TabelaAscii/build/Debug/outDebug",
+      "cwd": "/home/user/CC-PUC-AEDs",
+      "program": "/home/user/CC-PUC-AEDs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
