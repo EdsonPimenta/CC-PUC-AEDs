@@ -1,9 +1,13 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
-
-
+    {
+      "type": "java",
+      "name": "PrincipalAVL",
+      "request": "launch",
+      "mainClass": "PrincipalAVL",
+      "projectName": "CC-PUC-AEDs_d2b07e4c"
+    },
     {
       "type": "java",
       "name": "Launch Current File",

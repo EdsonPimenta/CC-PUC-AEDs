@@ -60,7 +60,10 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "java.project.sourcePaths": [
-    "Aeds_2/Ordenacao/Java"
+    "Aeds_2/Tp 4/Questao 1",
+    "Aeds_2/Ordenacao/Java",
+    "Aeds_2/Arvores",
+    "Aeds_2/Tp 4/Questao 2"
   ],
   "java.project.referencedLibraries": []
 }

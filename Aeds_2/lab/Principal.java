@@ -66,7 +66,7 @@ class ArvoreBinaria {
 		}
 	}
 
-	!/**
+	/**
 	 * Metodo publico iterativo para exibir elementos.
 	 */
 	public void caminharPre() {
